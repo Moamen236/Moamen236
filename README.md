@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Moamen Ali</h1>
-<h3 align="center">A Full Stack Developer From Egypt</h3>
+<h1>Hi 👋, I'm Moamen Ali</h1>
+<h3>A Full Stack Developer From Egypt</h3>
 
 - 🌱 I’m currently learning **everything 🤣**
 
